@@ -8,7 +8,7 @@ enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
 paginate: 6
-title: Helmani
+title: NutriQueen
 rssLimit: 10
 outputs:
   home:
