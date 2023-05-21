@@ -1,24 +1,18 @@
 main:
-  - name: Home
-    url: ""
-    weight: 1
-  - name: Categories
-    url: "#service"
-    weight: 2
-  - name: Certificates
+  - name: Chứng Nhận
     url: "#resume"
     weight: 3
-  - name: About
+  - name: Giới Thiệu
     url: "#about"
     weight: 4
-  - name: Products
+  - name: Sản Phẩm
     url: "#product"
     weight: 5
   - name: Testimonials
     url: "#testimonial"
     weight: 6
-  - name: Blog
-    url: "#blog"
+  - name: Bài Viết
+    url: "blog"
     weight: 7
 sitemap:
   - name: Home
