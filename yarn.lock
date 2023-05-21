@@ -2524,10 +2524,10 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-gsap@1.20.5:
-  version "1.20.5"
-  resolved "https://registry.yarnpkg.com/gsap/-/gsap-1.20.5.tgz#007150936066d53fd564c0a9c3f1741a9951eaf3"
-  integrity sha512-+BvkAzWC5SKGJGjt1I9ClgPI9G84C4vgjiZHRybCAjhDFJyq3xWrPyJXFve2Nn8L847H4Ru6kCABKLz5x0u/nA==
+gsap@1.20.6:
+  version "1.20.6"
+  resolved "https://registry.yarnpkg.com/gsap/-/gsap-1.20.6.tgz#0f6829052e94fbfffa92be3265f24b88729c9d1d"
+  integrity sha512-XM2BdaoJP23KSg/u4FnsqVI+HI7/jcVZbHFU8JfzNLvPCF08yf4a/WRFP/lQ5gbWydpL7g/YKjPe/PMpw+5WJQ==
 
 handlebars@^4.7.7:
   version "4.7.7"
