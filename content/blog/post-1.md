@@ -1,6 +1,6 @@
 ---
-title: "Health Benefits of Nuts"
-date: 2020-07-13T12:49:27+06:00
+title: "Các Công Dụng Thần Kỳ Của Nghệ Có Thể Bạn Chưa Biết"
+date: 2023-02-13T12:49:27+06:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: website

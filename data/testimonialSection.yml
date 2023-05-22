@@ -1,19 +1,51 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: Các Đánh Giá
 title: >
-  ## What Our Partners Say About Us?
+  ## Khách Hàng Nói Gì Về Sản Phẩm Của NutriQueen?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Lâm Nhật
+    comment: Sản phẩm chất lượng , đã mua rất nhiều lần, hàng chính hãng , có nguồn gốc xuất xứ rõ ràng , hạn sử dụng đầy đủ.
+    time: Jan 20, 2023
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
+  - name: HoàiA
+    comment: Mình mua hộp thứ 3 4 gì rồi, sữa tốt mẹ mình uống thấy chỉ số đường trong máu ko tăng cao, nên mua cho ba mẹ sử dụng.
+    time: Jan 16, 2023
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: V.anh
+    comment: Nguyên vẹn, bao bì cẩn thận, thích hợp với người lớn tuổi bị tiểu đường, uống vào đường huyết ổn định, mọi người nên mua.
+    time: Mar 08, 2023
+    star: 4
+  - name: Hằng trần
+    comment: Mua nhiều lắm rồi nên bây giờ muốn đánhhhh giá như thế nào cũng làm biến á mng hiểu mà....Nói chung khen người giao hàng đi...... dễ thương
+    time: Mar 09, 2023
+    star: 5
+  - name: Trịnh Trung
+    comment: Sữa uống tốt giá rẻ hơn so với sữa nhập
+    time: Mar 18, 2023
+    star: 4
+  - name: Ha Phan
+    comment: Sữa tiêu hóa mình mua cho chồng uống. thấy tư vấn cũng nhiệt tình
+    time: Mar 22, 2023
+    star: 4
+  - name: Khánh An
+    comment: Ok giao hàng nhanh
+    time: Mar 22, 2023
+    star: 4.5
+  - name: Mereland
+    comment: Nutriqueen này có cả cháo nữa ăn cũng rất ổn nha sữa thì uống tốt lắm mà giá lại rẻ
+    time: Mar 28, 2023
+    star: 5
+  - name: Hải.Aqua
+    comment: Sữa này được hàng việt nam yên tâm hơn mấy hãng trôi nỗi
+    time: Jul 30, 2022
+    star: 5
+  - name: Toản Quốc
+    comment: Tư vấn tốt nhiệt tình tôi mua thường xuyên
+    time: Mar 28, 2022
+    star: 5
+  - name: Nhi Phùng
+    comment: Mua cho bố mình thấy bảo uống cũng được
+    time: Mar 28, 2022
+    star: 4

@@ -1,6 +1,6 @@
 ---
-title: "Nuts and your heart: Eating nuts for heart health"
-date: 2020-07-13T12:49:27+06:00
+title: "Bệnh Tiểu Đường Có Xu Hướng Trẻ Hóa"
+date: 2022-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-5.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: mobile

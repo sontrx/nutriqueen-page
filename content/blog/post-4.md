@@ -1,6 +1,6 @@
 ---
-title: "Are nuts good for you?"
-date: 2020-07-13T12:49:27+06:00
+title: "Chế Độ Dinh Dưỡng Và Sinh Hoạt Cho Người Bệnh Tiểu Đường "
+date: 2023-03-13T12:49:27+06:00
 featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: fun

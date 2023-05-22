@@ -1,6 +1,6 @@
 ---
-title: "8 Health Benefits of Eating Nuts"
-date: 2020-07-13T13:06:26+06:00
+title: "8 Điều Người Bệnh Tiểu Đường Cần Lưu Ý Khi Chuẩn Bị Bữa Ăn"
+date: 2021-07-13T13:06:26+06:00
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: mobile
