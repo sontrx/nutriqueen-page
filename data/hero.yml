@@ -1,12 +1,12 @@
 ---
 enable: true
-topTitle: We Are NutriQueen!
+topTitle: NutriQueen
 content: >
-  # Healthy Food, Healthy Life
+  # Dinh Dưỡng Cho Cuộc Sống Khỏe Mạnh
 
   Tôn trọng thiên nhiên và biết cách ứng dụng những gì mà thiên nhiên ban tặng.
 buttonName: Liên Hệ
 buttonURL: contact
 image: images/hero/nuts.jpg
-videoThumb: images/hero/pistachios.jpg
+videoThumb: images/hero/gioi-thieu.png
 videoURL: https://www.youtube.com/watch?v=qYh9mgljTaQ

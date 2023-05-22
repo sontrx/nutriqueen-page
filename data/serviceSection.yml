@@ -1,44 +1,38 @@
 ---
 enable: true
-topTitle: Product Categories
+topTitle: Lý Do Nên Chọn NutriQueen
 title: >
-  ## Diversity in Products
+  ## Chính Hãng, Xuất Xứ Rõ Ràng, Chất Lượng Vượt Trội
 
-  From tasty dried fruits to nutritious nuts and saffron are provided by NutriQueen.
+  Sản xuất tại Việt Nam với nguyên liệu chính được nhập khẩu từ New Zealand và châu Âu nên đảm bảo được chất lượng tuyệt đối.
 service:
   - content: >
-      #### Pistachios 
+      #### Nguyên Liệu
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/pistachio.png
+      Nguyên liệu chính được nhập khẩu từ New Zealand và châu Âu nên đảm bảo được chất lượng vượt trội.
+    image: images/service/nguyen-lieu-nhap-khau.png
   - content: >
-      #### Raisins
+      #### Quy Trình Kiểm Soát
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/raisins.png
+      Kiểm soát nghiêm ngặt chế độ dinh dưỡng, sức khỏe bò và sữa trên từng con bò.
+    image: images/service/quy-trinh-kiem-soat.png
   - content: >
-      #### Dates 
+      #### Công Nghệ
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/dates.png
+      Hệ thống công nghệ hiện đại và tiêu chuẩn hóa số 1 thế giới.
+    image: images/service/cong-nghe.png
   - content: >
-      #### Walnuts
+      #### Nhà Máy
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/walnut.png
+      Nhà máy ngay cạnh nông trường đảm bảo nguồn sữa thu về trong lành, dinh dưỡng hàm lượng cao nhất.
+    image: images/service/factory.png
   - content: >
-      #### Saffron
+      #### Thành Phần Thiên Nhiên
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/saffron.png
+      Sữa NutriQueen được chiết xuất từ một số thành phần từ thiên nhiên và các vitamin, dưỡng chất, khoáng chất, an toàn với người sử dụng.
+    image: images/service/thanh-phan-thien-nhien.png
   - content: >
-      #### Barberries
+      #### An Toàn
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/barberry.png
+      Không chứa thành phần hóa học độc hại, ít hoặc không gây tác dụng phụ.
+    image: images/service/an-toan.png
