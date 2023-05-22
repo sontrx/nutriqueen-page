@@ -19,7 +19,7 @@ schemaName: Hyas
 schemaAuthor: Henk Verlinde
 schemaAuthorTwitter: "https://twitter.com/nutriqueen_official"
 schemaAuthorLinkedIn: "https://www.linkedin.com/in/nutriqueen_official/"
-schemaAuthorGitHub: 
+schemaAuthorGitHub:
 schemaLocale: vi-VN
 schemaLogo: logo.png
 schemaLogoWidth: 512
@@ -77,7 +77,7 @@ logo: images/site-navigation/logo.png
 address:
   address: "BT15 Trung văn - Nam Từ Liêm - Hà Nôi."
   email: info@nutriqueen.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
+  openingHours: "Tư vấn qua hotline 24/7. Văn phòng: 8h-17h các ngày trong tuần."
   phone: (+84) 858.895.668
 map:
   APIkey: YOUR GOOGLE MAP API
