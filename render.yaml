@@ -2,7 +2,7 @@
 
 services:
   - type: web
-    name: corporio # Your website name
+    name: nutriqueen # Your website name
     env: static
     buildCommand: pnpm install; pnpm add popper.js@1.16.1; pnpm build
     staticPublishPath: ./public
@@ -28,9 +28,9 @@ services:
       - path: /*
         name: X-XSS-Protection
         value: 1; mode=block
-      - path: /*
-        name: Content-Security-Policy
-        value: default-src 'self'; manifest-src 'self'; connect-src 'self'; font-src 'self' fonts.gstatic.com; img-src 'self' data:; script-src 'self' www.googletagmanager.com unpkg.com cdn.jsdelivr.net 'nonce-dXNlcj0iaGVsbG8iLGRvbWFpbj0iaGVua3ZlcmxpbmRlLmNvbSIsZG9jdW1lbnQud3JpdGUodXNlcisiQCIrZG9tYWluKTs=' 'sha256-aWZ3y/RxbBYKHXH0z8+8ljrHG1mSBvyzSfxSMjBSaXk='; style-src 'self' fonts.googleapis.com 'unsafe-inline'
+      # - path: /*
+      #   name: Content-Security-Policy
+      #   value: default-src 'self'; manifest-src 'self'; connect-src 'self'; font-src 'self' fonts.gstatic.com; img-src 'self' data:; script-src 'self' www.googletagmanager.com unpkg.com cdn.jsdelivr.net 'nonce-dXNlcj0iaGVsbG8iLGRvbWFpbj0iaGVua3ZlcmxpbmRlLmNvbSIsZG9jdW1lbnQud3JpdGUodXNlcisiQCIrZG9tYWluKTs=' 'sha256-aWZ3y/RxbBYKHXH0z8+8ljrHG1mSBvyzSfxSMjBSaXk='; style-src 'self' fonts.googleapis.com 'unsafe-inline'
       - path: /*
         name: X-Frame-Options
         value: SAMEORIGIN
