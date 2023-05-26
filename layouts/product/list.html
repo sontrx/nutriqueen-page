@@ -41,7 +41,7 @@
         <div class="col-12">
           <div class="product-item-grid">
             {{ range .Paginator.Pages }}
-              <div class="product-item">
+              <div class="product-item mb-5">
                 {{ $asset := resources.Get .Params.thumbnail }}
                 {{ $img := $asset.Resize "700x webp" }}
                 <img src="{{ $img.RelPermalink }}" class="product-item-thumb" alt="product-thumb" />

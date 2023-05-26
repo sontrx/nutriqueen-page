@@ -14,7 +14,7 @@
           <div class="col-12">
             <div class="product-item-grid">
               {{ range first 4 (where $.Site.RegularPages "Type" "product") }}
-                <div class="product-item">
+                <div class="product-item mb-5">
                   {{ $asset := resources.Get .Params.thumbnail }}
                   {{ $img := $asset.Resize "500x webp" }}
                   <img src="{{ $img.RelPermalink }}" class="product-item-thumb" alt="product-thumb" />
